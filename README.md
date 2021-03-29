@@ -7,6 +7,8 @@ Seattle, WA
 dhunt00@uw.edu
 March 29, 2021
 
+DOI: https://zenodo.org/badge/331137198.svg
+
 Overview
 This repository contains Jupyter Notebooks and Python code used to simulate foraging patterns on a neutral landscape with a variably-sized patch of fixed resource.  The model allows the user to modulate the directional persistence of the foraging path by use of probability distribution derived from a wrapped Cauchy distribution. 
 
