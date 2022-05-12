@@ -7,8 +7,6 @@ Seattle, WA
 dhunt00@uw.edu
 May 12, 2022
 
-DOI: https://zenodo.org/badge/331137198.svg
-
 Overview
 This repository contains two sections. 
 
